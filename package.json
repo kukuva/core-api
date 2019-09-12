@@ -1,0 +1,26 @@
+{
+  "name": "core-api",
+  "private": true,
+  "version": "0.0.1",
+  "description": "Core user-facing API for kukuva",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kukuva/core-api.git"
+  },
+  "author": "",
+  "licence": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/kukuva/core-api/issues"
+  },
+  "homepage": "https://github.com/kukuva/core-api#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+  },
+  "devDepencencies": {
+    "jest": "^24.8.0"
+  }
+}
